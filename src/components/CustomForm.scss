@@ -1,0 +1,19 @@
+.input_form{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    form{
+        padding-top:30px;
+    }
+    
+    #form_output{
+        border-radius: 5px;
+        border:solid black;
+        margin:10px 20px;
+        padding:10px 20px;
+        text-align: center;
+        font-size: 140%;
+    }
+}
+
